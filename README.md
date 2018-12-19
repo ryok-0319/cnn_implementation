@@ -9,9 +9,6 @@ A simple implementation of CNN using Tensorflow.
 
 ## Installation
 1. Clone this repository.
-```
-git clone https://github.com/ShiChenAI/cnn_implementation.git
-```
 
 2. Install the dependencies. The code should run with TensorFlow 1.0 and newer.
 ```
